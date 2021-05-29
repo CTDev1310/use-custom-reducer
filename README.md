@@ -1,4 +1,4 @@
-# This is how I use custome reducer to get API in ReactJS
+# This is how I use custom reducer to get API in ReactJS
 
 ## Create custom Reducer
 
